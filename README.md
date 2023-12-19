@@ -33,15 +33,34 @@ Move to the desired tutorial (e.g., `04_data_types`) and compile using the `carg
 ```console
 $ cd 04_data_types
 $ cargo build
+    Finished dev [unoptimized + debuginfo] target(s) in 0.22s
 ```
 
-To execute the built binary, employ the `cargo run` command:
+To execute the built binary, use:
+
+```console
+$ ./target/debug/data_types
+Int32: -2
+Unsigned Int: 3
+Float: 0.12323
+Boolean: true
+Character: ;
+Tuple: (2, -123.988, false, ')
+```
+
+To compile and run the file in one go, employ the `cargo run` command:
 
 ```console
 $ cargo run
+    Finished dev [unoptimized + debuginfo] target(s) in 0.21s
+     Running `target/debug/data_types`
+Int32: -2
+Unsigned Int: 3
+Float: 0.12323
+Boolean: true
+Character: ;
+Tuple: (2, -123.988, false, ')
 ```
-
-**Note**: Execute these commands in the project's parent directory.
 
 ## Using `rustc` to Compile and Run
 
