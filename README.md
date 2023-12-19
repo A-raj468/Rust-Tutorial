@@ -28,10 +28,10 @@ $ cd Rust-Tutorial
 
 ## Build and Run
 
-Move to the desired tutorial (e.g., `data_types`) and compile using the `cargo build` command:
+Move to the desired tutorial (e.g., `04_data_types`) and compile using the `cargo build` command:
 
 ```console
-$ cd data_types
+$ cd 04_data_types
 $ cargo build
 ```
 
