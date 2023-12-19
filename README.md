@@ -10,6 +10,7 @@ Welcome to the Rust Tutorial – your guide to learning Rust from scratch. This 
     -   [Build and Run](#build-and-run)
     -   [Using `rustc` to Compile and Run](#using-rustc-to-compile-and-run)
     -   [Contributing and Suggestions](#contributing-and-suggestions)
+    -   [References and Additional Reading](#references-and-additional-reading)
 
 ## Getting Started
 
@@ -59,3 +60,13 @@ $ <executable_path>
 ## Contributing and Suggestions
 
 Your contributions and suggestions are highly valued! Feel free to contribute, suggest improvements, or report issues to make this tutorial more valuable for fellow Rust enthusiasts. Happy coding! 🦀
+
+## References and Additional Reading
+
+This tutorial is made, in part, by following the [Rust Programming Tutorial](https://www.youtube.com/playlist?list=PLzMcBGfZo4-nyLTlSRBvo0zjSnCnqjHYQ) by YouTuber [Tech with Tim](https://www.youtube.com/@TechWithTim).
+
+Here are some recommended resources for further learning and discussion:
+
+-   [Official Rust Documentation](https://doc.rust-lang.org/stable/book/)
+-   [Rust Programming Language Forum](https://users.rust-lang.org/)
+-   [Rust Reddit Community](https://www.reddit.com/r/rust/)
