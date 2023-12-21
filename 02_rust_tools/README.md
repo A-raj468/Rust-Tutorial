@@ -5,12 +5,12 @@ In this tutorial, we shall learn about some Rust tools such as `cargo` and `rust
 ## Table of Content
 
 -   [Introduction](#introduction)
--   [Table of Content](#table-of-content)
--   [Build using `cargo`](#build-using-cargo)
-    -   [Start a new package](#start-a-new-package)
-    -   [Compile and Run](#compile-and-run)
--   [Format using `rstfmt`](#format-using-rstfmt)
--   [References](#references)
+    -   [Table of Content](#table-of-content)
+    -   [Build using `cargo`](#build-using-cargo)
+        -   [Start a new package](#start-a-new-package)
+        -   [Compile and Run](#compile-and-run)
+    -   [Format using `rstfmt`](#format-using-rstfmt)
+    -   [References](#references)
 
 ## Build using `cargo`
 
