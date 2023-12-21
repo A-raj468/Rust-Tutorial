@@ -4,6 +4,8 @@ Introduction to `Rust` programming language.
 
 Rust is a multi-paradigm, general-purpose programming language that emphasizes performance, type safety, and concurrency. It is a statically and strongly typed language.
 
+In this tutorial, we shall learn how to install Rust and write our first program `hello_world.rs`.
+
 ## Table of Content
 
 -   [Introduction](#introduction)
@@ -77,7 +79,7 @@ Like every other tutorial on every other language, our first program would be th
 
 Copy the content of the file `src/main.rs` into a new file, let's call it `hello_world.rs`.
 
-The code should look like this:
+Here’s what’s in `src/main.rs`:
 
 ```rust
 fn main() {
